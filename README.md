@@ -1,4 +1,5 @@
 📊 Attendance Tracker System
+
 📌 Objectives
 
 To design and implement a RESTful backend using FastAPI
@@ -10,6 +11,8 @@ To perform CRUD operations on students, courses, enrollments, and attendance
 To analyze student attendance and performance using interactive dashboards
 
 To demonstrate advanced programming, API design, and database concepts
+
+
 
 🛠️ Technology Stack
 
@@ -25,7 +28,10 @@ Dashboard & Visualization: Dash, Plotly
 
 API Documentation: Swagger UI (OpenAPI)
 
+
+
 🚀 Features
+
 🔹 Backend Features
 
 Create, read, update, and delete students
@@ -50,6 +56,7 @@ RESTful API architecture
 
 Automatic API documentation using Swagger UI
 
+
 🔹 Dashboard Features
 
 Course-wise attendance visualization
@@ -61,6 +68,8 @@ Attendance percentage analytics
 Interactive charts and graphs
 
 Real-time data reflection from the database
+
+
 
 🧱 Project Architecture
 
@@ -85,6 +94,8 @@ Stores students, courses, enrollments, and attendance records
 Modular Project Structure
 
 Ensures maintainability, scalability, and clean separation of concerns
+
+
 
 📂 Modules Overview
 
@@ -147,4 +158,5 @@ Once the server is running, visit `http://127.0.0.1:8000/docs` for interactive A
 ## Database
 
 The application uses SQLite database (`attendance_tracker.db`) which is created automatically on first run.
+
 
